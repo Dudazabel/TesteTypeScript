@@ -1,0 +1,8 @@
+interface Produto{
+    id: number;
+    nome: String;
+    preco: number;
+    emEstoque: boolean;
+    descricao?: String;
+}
+

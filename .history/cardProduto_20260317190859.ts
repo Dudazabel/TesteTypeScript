@@ -1,0 +1,11 @@
+interface Produto{
+    id: number;
+    nome: String;
+    preco: number;
+    emEstoque: boolean;
+    descricao?: String;
+}
+
+var serum: Produto = {
+    id = 
+};
